@@ -95,6 +95,7 @@
 .sidebar .sdb_holder:last-child{margin-bottom:0;}
 
 
+
 /* Footer
 --------------------------------------------------------------------------------------------------------------- */
 #footer{padding:80px 0; text-align:center;}
@@ -384,3 +385,11 @@ table a, #comments a{background-color:inherit;}
 	.font-x2{font-size:1.4rem;}
 	.font-x3{font-size:1.6rem;}
 }
+
+/* My
+--------------------------------------------------------------------------------------------------------------- */
+
+
+.bg-silver {background-color: silver;color: black !important;}
+.p1 {text-align: justify;font-family: Comic Sans MS;}
+.p2{text-align: justify;font-family: Comic Sans MS;font-style: italic;font-weight:600;}
